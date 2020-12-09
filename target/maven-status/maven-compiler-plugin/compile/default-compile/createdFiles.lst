@@ -1,0 +1,6 @@
+com\users\appusers\domain\AppUser.class
+com\users\appusers\SpringBootDataMongodbApplication.class
+com\users\appusers\controller\LoginController.class
+com\users\appusers\repository\AppUserRepository.class
+com\users\appusers\service\AppUserServiceImpl.class
+com\users\appusers\service\AppUserService.class
